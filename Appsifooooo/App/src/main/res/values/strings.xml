@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="open">open navigation drawer</string>
+    <string name="close">close navigation drawer</string>
+<string-array name="work">
+    <item>Painter</item>
+    <item>Plumber</item>
+    <item>Mechanic</item>
+</string-array>
+
+</resources>

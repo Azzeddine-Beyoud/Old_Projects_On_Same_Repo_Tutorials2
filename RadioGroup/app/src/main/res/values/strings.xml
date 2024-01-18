@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ui&amp;java</string>
+    <string name="my_result">null</string>
+    <string name="my_text">you clicked</string>
+    <string name="my_button">Sum</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="result">result</string>
+    <string name="add">add</string>
+    <string name="sub" > sub</string>
+    <string name="mult">mult</string>
+    <string name="div">div</string>
+</resources>

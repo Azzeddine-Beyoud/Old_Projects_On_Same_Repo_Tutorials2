@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    >
+<LinearLayout
+    android:layout_width="200dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <ImageButton
+        android:id="@+id/painter"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="47dp"
+        android:background="@drawable/roundb"
+        android:src="@drawable/ic_baseline_format_paint_24"
+
+
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Painter"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_green_dark"
+        />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    >
+    <ImageButton
+        android:id="@+id/Mechanic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/roundb"
+        android:layout_gravity="center"
+        android:layout_marginTop="47dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+android:text="Mechanic"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_gravity="center"
+
+        />
+
+
+</LinearLayout>
+
+
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageButton
+            android:id="@+id/plumber"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="47dp"
+            android:background="@drawable/roundb"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Plumber"
+            android:textSize="30sp"
+            android:textColor="@android:color/holo_green_dark"
+
+
+            />
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+

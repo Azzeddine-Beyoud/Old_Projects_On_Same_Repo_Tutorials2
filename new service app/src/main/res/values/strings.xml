@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="open">open navigation drawer</string>
+    <string name="close">close navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="EmailErreur">Email Erreur</string>
+    <string name="ok">ok</string>
+    <string-array name="work">
+        <item>Painter</item>
+        <item>Plumber</item>
+        <item>Mechanic</item>
+    </string-array>
+
+</resources>
